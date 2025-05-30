@@ -1,7 +1,5 @@
 # RestorasiCitraDigital
 
-Berikut adalah contoh **README** untuk program Python Anda yang melakukan **deblurring citra menggunakan algoritma Lucy-Richardson dan Wiener Filter**, cocok untuk ditambahkan di GitHub atau laporan Anda:
-
 ---
 
 # 🖼️ Image Deblurring using Lucy-Richardson and Wiener Filter
